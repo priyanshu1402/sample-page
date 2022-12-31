@@ -18,7 +18,7 @@ function App() {
       <div className="flex w-screen min-h-screen flex-col items-center justify-center relative bg-primary pb-20">
         <nav className="w-full px-6 z-50  fixed inset-x-0 top-2 flex justify-center items-center ">
           <div className=" w-full md:w-880 bg-navBar p-4 rounded-2xl flex items-center">
-            <p className="text-lg text-slate-200 font-medium">Vetrivel Ravi</p>
+            <p className="text-lg text-slate-200 font-medium">Priyanshu Raghuvanshi</p>
 
             <div className="hidden md:flex items-center gap-6 ml-6 flex-1">
               <a
