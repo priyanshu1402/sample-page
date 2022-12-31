@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sample-page/static/css/main.2c1b0226.css",
+    "main.js": "/sample-page/static/js/main.6ee13f5a.js",
+    "static/media/vetri.jpg": "/sample-page/static/media/vetri.2c48d090fd209b68a1c0.jpg",
+    "static/media/thumb-fullstack-socialmedia-app-react-sanity.png": "/sample-page/static/media/thumb-fullstack-socialmedia-app-react-sanity.44fcc444cec6e5975eda.png",
+    "static/media/thumb-pinterest-clone-reactjs.png": "/sample-page/static/media/thumb-pinterest-clone-reactjs.28b7219fa6592c8cb72e.png",
+    "static/media/thumb-google-map-clone-nextjs-feb22.png": "/sample-page/static/media/thumb-google-map-clone-nextjs-feb22.200845be6c176fdf46e1.png",
+    "static/media/thumb-videoblog-firebase-reactjs-feb-22.png": "/sample-page/static/media/thumb-videoblog-firebase-reactjs-feb-22.953c6b52ecd9887695db.png",
+    "static/media/thumb-fooddeliveryapp-reactjs-dec.png": "/sample-page/static/media/thumb-fooddeliveryapp-reactjs-dec.fd65990a923e0e9a8e30.png",
+    "static/media/thumb-whatsappui-clone-nextjs.png": "/sample-page/static/media/thumb-whatsappui-clone-nextjs.8a57832933683cf42666.png",
+    "index.html": "/sample-page/index.html",
+    "main.2c1b0226.css.map": "/sample-page/static/css/main.2c1b0226.css.map",
+    "main.6ee13f5a.js.map": "/sample-page/static/js/main.6ee13f5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c1b0226.css",
+    "static/js/main.6ee13f5a.js"
+  ]
+}
